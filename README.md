@@ -1,8 +1,8 @@
-# SDoc2Pdf Scala lib
+# sDoc2Pdf Scala lib
 
-SDoc2Pdf is a Scala library that makes easy to create complex PDFs from Odt or Docx templates
+sDoc2Pdf is a Scala library that makes easy to create complex PDFs from Odt or Docx templates
 
-On the backed it uses [xdocreport](https://code.google.com/p/xdocreport), Inspired by [sPDF](https://github.com/cloudify/sPDF)
+On the backed it uses [xdocreport](https://code.google.com/p/xdocreport), inspired by [sPDF](https://github.com/cloudify/sPDF)
 
 WARNING: This lib is a work in progress and it´s not ready for production usage. Actually it´s just prototype.
 
@@ -28,7 +28,7 @@ var out=template.render
 
 ## Roadmap
 
-This project is still in a early stage, many things that should be improved:
+This project is still in a early stage, there are many things that should be improved:
 
 - [ ] Use a a better scala idiom for the API
 - [ ] Use non-blocking IO
