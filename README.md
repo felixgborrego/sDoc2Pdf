@@ -22,7 +22,7 @@ template + ("project_name","sDoc2Pdf")
 var out=template.render
 ```
 
-![](http://wiki.xdocreport.googlecode.com/git/screenshots/ODTReportingQuickStart_MacroOverview1.png)
+![](https://raw2.github.com/felixgborrego/sDoc2Pdf/master/docs/diagram.png)
 
 
 
