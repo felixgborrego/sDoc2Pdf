@@ -14,7 +14,7 @@ This library allows you to generate pdf documents or reports with your data from
 // create a new report using a template document
 val template = OdtTemplate("/template1.odt")
 
-// add data to the report
+// add data to the template
 template + ("user_name","Felix Garcia Borrego")
 template + ("project_name","sDoc2Pdf")
 
