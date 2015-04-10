@@ -4,7 +4,7 @@ sDoc2Pdf is a Scala library that makes easy to create complex PDFs from Odt or D
 
 On the backed it uses [xdocreport](https://code.google.com/p/xdocreport), inspired by [sPDF](https://github.com/cloudify/sPDF)
 
-WARNING: This lib is a work in progress and it´s not ready for production usage. Actually it´s just prototype.
+WARNING: This lib is just prototype. Do not use this with any expectation of stability, what is here is just an experiment over the weekend, and would need more work to reach a point where it could be used as a base for anything else.
 
 ## Usage
 
