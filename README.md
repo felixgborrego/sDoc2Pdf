@@ -22,9 +22,7 @@ template + ("project_name","sDoc2Pdf")
 var out=template.render
 ```
 
-![](https://raw2.github.com/felixgborrego/sDoc2Pdf/master/docs/diagram.png)
-
-
+![](docs/diagram.png)
 
 ## Roadmap
 
@@ -33,7 +31,7 @@ This project is still in a early stage, there are many things that should be imp
 - [ ] Use a a better scala idiom for the API
 - [ ] Use non-blocking IO
 - [ ] Add Test and production ready
-- [ ] Streaming API (with `scalaz-stream`)
+- [ ] Streaming API
 - [ ] Simplified API with implicits
 - [ ] Integration with Play for streaming PDFs in HTTP responses
 - [ ] Etc...
